@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<AutoDataBase>
+  <auto ID = "1"
+        Country ="США"
+        Cost ="30600$"
+        Marka ="BMW"
+        Model ="X4"
+        Year ="2016"
+        Color ="чорний">
+  </auto>
+  <auto ID = "2"
+        Country ="Німеччина"
+        Cost ="26900$"
+        Marka ="Mercedes"
+        Model ="Benz"
+        Year ="2015"
+        Color ="фіолетовий">
+  </auto>
+  <auto ID = "3"
+        Country ="Німеччина"
+        Cost ="39300$"
+        Marka ="Porsche"
+        Model ="Macan"
+        Year ="2014"
+        Color ="синій">
+  </auto>
+  <auto ID = "4"
+        Country ="Італія"
+        Cost ="46900$"
+        Marka ="Maserati"
+        Model ="Quattroporte"
+        Year ="2013"
+        Color ="білий">
+  </auto>
+</AutoDataBase>
